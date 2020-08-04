@@ -1,0 +1,59 @@
+﻿body {
+    background-color: #1c1717;
+    font-family: 'News Cycle', sans-serif;
+    color: cornsilk;
+}
+p{
+    color:cornsilk;
+}
+h1{
+    color:cornsilk;
+}
+.Test{
+    background-color:crimson;
+}
+
+#home_btn{
+    content:inherit;
+   padding-top:200px;
+}
+
+
+h2{
+    color:cornsilk;
+}
+/*-----^^^^^Old CSS CSS^^^^^--------*/
+
+
+#LogoHome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 50%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 15px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button{
+    background-color:blue;
+}
