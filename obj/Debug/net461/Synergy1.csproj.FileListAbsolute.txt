@@ -1,5 +1,4 @@
 C:\Users\toddp\repos\Synergy1\bin\Debug\net461\app.config
-C:\Users\toddp\repos\Synergy1\bin\Debug\net461\appsettings.Development.json
 C:\Users\toddp\repos\Synergy1\bin\Debug\net461\appsettings.json
 C:\Users\toddp\repos\Synergy1\bin\Debug\net461\Properties\launchSettings.json
 C:\Users\toddp\repos\Synergy1\bin\Debug\net461\Properties\serviceDependencies.json
